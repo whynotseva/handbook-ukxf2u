@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whynotseva.github.io/handbook-ukxf2u/sitemap.xml
